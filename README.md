@@ -24,7 +24,7 @@ PQAR's research has the potential to revolutionize fields like:
 
 * **Astrophysics:** Unlocking the secrets of dark matter, black holes, and the origins of the universe through ultra-precise atomic clocks and quantum gravity sensors.
 * **Materials Science:** Engineering revolutionary materials with previously unheard-of properties by understanding the interactions of atoms at a quantum level.
-* **Biotechnology:** Developing targeted therapies and diagnostics through a deeper understanding of the atomic processes underlying life itself.
+* **Nuclear Sciences:** Creating state of the art designs for nuclear reactors, and advancing our core understanding of nuclear principles.
 
 **Join us on the journey to unlock the universe's data!**
 
